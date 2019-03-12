@@ -1,0 +1,12 @@
+Project Oparu
+- NightCycle alarm programming
+- User login for potential webapp, sql, AES
+- Diet generation, nutritional breakdown for goals
+- Basic user information 
+
+
+// Life To-Learns 
+- Learn new frameworks, Django
+- Learn interview python challenges 
+- SSH
+- Books 
